@@ -1,7 +1,14 @@
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  line-height: 1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
 }
 
 textarea {
@@ -19,6 +26,7 @@ textarea {
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
+  font-family: "Staatliches", sans-serif;
 }
 
 .description {
@@ -28,6 +36,7 @@ textarea {
 .time-block {
   text-align: center;
   border-radius: 15px;
+  margin: 0 250px;
 }
 
 .row {
