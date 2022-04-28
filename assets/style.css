@@ -58,6 +58,8 @@ textarea {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  text-align: right;
+  padding-top: 10px;
 }
 
 .past {
@@ -83,7 +85,7 @@ textarea {
   color: white;
 }
 
-.saveBtn:hover{
+.saveBtn:hover {
   background-color: #0f819b;
 }
 
