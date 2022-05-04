@@ -1,7 +1,9 @@
 $(document).ready(function () {
   var displayCurrentDay = $("#currentDay");
   var currentDay = moment();
-  displayCurrentDay.textContent = currentDay.format("dddd, MMMM Do");
+  // displayCurrentDay.textContent = currentDay.format("dddd, MMMM Do");
+  displayCurrentDay.text(currentDay.format("dddd, MMMM Do"));
+
 
   $(".saveBtn").on("click", function () {
     var textAreaValue = $(this).siblings(".description").val();
@@ -38,7 +40,7 @@ $(document).ready(function () {
   for (var i = 9; i < 18; i++) {
     $("#" + i + ".description").val(localStorage.getItem(i));
 
-    // String Interpolation 
-    // console.log(`#${i}.description`).val(localStorage.getItem(i));  
-}
+    // String Interpolation
+    // console.log(`#${i}.description`).val(localStorage.getItem(i));
+  }
 });
