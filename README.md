@@ -22,7 +22,7 @@ to create daily planner that I can add important events to during the work day t
 https://alanam79.github.io/work-day-scheduler/
 
 # GitHub
-https://github.com/alanam79/code-quiz
+https://github.com/alanam79/work-day-scheduler
 
 # Screenshots
 [![Screenshot-2022-05-05-082309.jpg](https://i.postimg.cc/6QPw4DWp/Screenshot-2022-05-05-082309.jpg)](https://postimg.cc/WD0xQYqB)
