@@ -26,7 +26,7 @@ $(document).ready(function () {
         $(this).addClass("past");
       } else if (timeBlockHour === currentTime) {
         $(this).removeClass("past");
-        $(this).addClass("future");
+        $(this).addClass("present");
       } else {
         $(this).removeClass("past");
         $(this).removeClass("present");
