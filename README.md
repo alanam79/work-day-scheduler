@@ -25,7 +25,10 @@ https://alanam79.github.io/work-day-scheduler/
 https://github.com/alanam79/code-quiz
 
 # Screenshots
-[![1.jpg](https://i.postimg.cc/T1Lzt33f/1.jpg)](https://postimg.cc/Cn0r1Y8Q)
+[![Screenshot-2022-05-05-082309.jpg](https://i.postimg.cc/6QPw4DWp/Screenshot-2022-05-05-082309.jpg)](https://postimg.cc/WD0xQYqB)
+[![Screenshot-2022-05-05-082309.jpg](https://i.postimg.cc/vHGRTQrv/Screenshot-2022-05-05-082309.jpg)](https://postimg.cc/DmppY3YW)
+[![Screenshot-2022-05-05-082309.jpg](https://i.postimg.cc/qMW7W6V7/Screenshot-2022-05-05-082309.jpg)](https://postimg.cc/JGcmknhw)
+[![Screenshot-2022-05-05-082309.jpg](https://i.postimg.cc/fW9kSHDB/Screenshot-2022-05-05-082309.jpg)](https://postimg.cc/Lhmmr3q1)
 
 
 
